@@ -1,0 +1,7 @@
+.jumbotron {
+	background-image: url("./image/train\ station.jpg");
+    border-bottom: 3px solid white;
+    padding-top: 20px; 
+    padding-bottom: 20px; 
+    color: white;
+}
